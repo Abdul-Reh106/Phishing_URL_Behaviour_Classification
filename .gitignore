@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.csv
+.env
+.streamlit/secrets.toml
+inspect_data.py
+models/logistic_regression_model.joblib
+plots/confusion_matrix.png
+plots/roc_curve.png
+plots/median_url_length.png
